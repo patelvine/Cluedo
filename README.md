@@ -9,4 +9,4 @@ Click the tiles to move your player by the number of spaces representated on the
 Run
 ===========
 Requires Java 7. <br />
-Run Cluedo_exe.jar as an executable Java program
+- Run Cluedo_exe.jar as an executable Java program
